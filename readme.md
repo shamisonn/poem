@@ -1,5 +1,51 @@
-# poem
+poem
+===
 
-dayone2 cliのwrapper
+peomは日記を楽に書くためのCLIツールです。
 
-ポエムを量産する
+なお開発中であります。
+
+## Description
+
+日記を毎日書く週間がない人間のために作られ、
+日記を書きやすくするためのCLIツールです。
+
+日記を書く優秀なサービスとしてdayoneがありますが、
+デフォルトでdayone2
+
+dayone2のGUIを叩くのが面倒くさい人は幸せになれるかもしれません。
+
+## Demo
+
+あとで追加します。
+
+## Requirement
+
+必要:
+
+- bash
+- emacs
+
+場合によっては必要:
+
+- dayone2 cli
+
+## Usage
+
+```
+$ poem 
+```
+
+で対話モードで諸々ができます。
+ちょっと後でまたコマンドを追加します。
+
+## Installation
+
+```
+$ git clone <this repository>
+$ export PATH=$PATH:<repos.path>/bin
+```
+## Auther
+
+shamison<https://github.com/shamisonn>
+
