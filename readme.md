@@ -10,9 +10,6 @@ peomは日記を楽に書くためのCLIツールです。
 日記を毎日書く週間がない人間のために作られ、
 日記を書きやすくするためのCLIツールです。
 
-日記を書く優秀なサービスとしてdayoneがありますが、
-デフォルトでdayone2
-
 dayone2のGUIを叩くのが面倒くさい人は幸せになれるかもしれません。
 
 ## Demo
@@ -25,9 +22,6 @@ dayone2のGUIを叩くのが面倒くさい人は幸せになれるかもしれ�
 
 - bash
 - emacs
-
-場合によっては必要:
-
 - dayone2 cli
 
 ## Usage
@@ -47,5 +41,5 @@ $ export PATH=$PATH:<repos.path>/bin
 ```
 ## Auther
 
-shamison<https://github.com/shamisonn>
+shamison https://github.com/shamisonn
 
