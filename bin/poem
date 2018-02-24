@@ -49,7 +49,7 @@ fi
 TAG="poem"
 
 # open by EMACS
-emacs -nw ${POEM_PATH}
+emacsclient -nw ${POEM_PATH}
 printf "\e[32m#\e[m Wrote at ${POEM_PATH}\n"
 
 dayone2 new -t ${TAG} < ${POEM_PATH}
